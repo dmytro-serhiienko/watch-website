@@ -1,4 +1,4 @@
-![watch-website](./assets/img/readme.png)
+![watch-website](./assets/img/read.png)
 
 ## ⌚ Watch Website - Luxury Landing Page
 
